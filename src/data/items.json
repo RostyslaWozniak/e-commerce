@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "name": "Book",
+        "price": 45.99,
+        "imgUrl": "../public/images/book.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Phone",
+        "price": 355.99,
+        "imgUrl": "../public/images/phone.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Coffee",
+        "price": 4.99,
+        "imgUrl": "../public/images/coffee.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Laptop",
+        "price": 1097.99,
+        "imgUrl": "../public/images/laptop.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Table",
+        "price": 145.99,
+        "imgUrl": "../public/images/table.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Wine",
+        "price": 25.99,
+        "imgUrl": "../public/images/wine.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Burger",
+        "price": 2.99,
+        "imgUrl": "../public/images/burger.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Couch",
+        "price": 97.99,
+        "imgUrl": "../public/images/couch.jpg"
+    }
+]
